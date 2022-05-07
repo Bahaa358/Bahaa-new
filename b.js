@@ -1,4 +1,4 @@
 function test(){
-    alert ("Full Stack Training")
+    alert ("Full Stack Training 1")
 }
 
